@@ -1,4 +1,11 @@
-import pygame, sys, random, pprint
+"""squared: A game made using pygame framework"""
+__author__ = "David Rodriguez"
+__version__ = "0.0.2"
+__email__ = "davidrodri@virgilio.it"
+__copyright__ = "(C) 2017 David Rodriguez. GNU GPL 3."
+
+
+import pygame, sys, random
 from pygame.locals import * 
 
 #DISPLAY MEASUREMENTS
